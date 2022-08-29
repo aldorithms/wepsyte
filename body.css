@@ -1,0 +1,46 @@
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    color: black;
+    background: white;
+    margin: 8px;
+}
+
+h1 {
+    color: red;
+}
+
+.large {
+    font-size: 16pt;
+}
+
+#nut {
+    background-color: greenyellow;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+}
+
+#food {
+    background-color: red;
+}
+
+p.large {
+
+}
+
+/* <p id="p20"> */
+#p20 { 
+    font-weight: bold;
+}
+
+p:hover, a.hover {
+    background-color: yellow;
+}
+
+a:visited {
+    color: green;
+}
+
+a:link { 
+    color: blue;
+}
